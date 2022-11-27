@@ -8,4 +8,4 @@ This game uses mechanics of that similarly used in dungeons and dragons. A chara
 
 ## Author
 
-Samantha Walsh - smwalsh7502@eagle.fgcu.edu
+Samantha Walsh - smwalsh7502@eagle.fgcu.edu - www.linkedin.com/in/sam-mwalsh
