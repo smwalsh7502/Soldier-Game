@@ -4,7 +4,7 @@
 A dungeon and dragons inspired text-based adventure game to practice object oriented programming and passing by pointer.
 
 ## Description
-This game uses mechanics of that similarly used in dungeons and dragons. A character class was created with "getters" and "setters" which can be used to create the "enemy" character. We also practiced passing by reference and by pointer as well as proper coding documentation and formatting. 
+This game uses mechanics similarly of those used in dungeons and dragons. A character class was created with "getters" and "setters" which can be used to create the "enemy" character. We also practiced passing by reference and by pointer as well as proper coding documentation and formatting. 
 
 ## Author
 
